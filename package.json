@@ -8,5 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dev":"npm start",
+  "dev":"npm start"
 }
